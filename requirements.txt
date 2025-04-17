@@ -1,0 +1,4 @@
+pypdf2
+dotenv
+openai
+reportlab
